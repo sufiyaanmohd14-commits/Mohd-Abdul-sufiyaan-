@@ -1,0 +1,8 @@
+{
+  "name": "Remix Block Blast Puzzle",
+  "description": "Addictive 8x8 block puzzle game with polyomino shapes, drag-and-drop mechanics, combo line clears, and audio effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
